@@ -1,6 +1,6 @@
 # Stock Price Prediction using LSTM
 
-This code demonstrates how to predict stock prices using a Long Short-Term Memory (LSTM) neural network. It utilizes the historical stock price data of Tesla (TSLA) obtained from a CSV file.
+This code demonstrates how to predict stock prices using a Long Short-Term Memory (LSTM) neural network. It utilizes the historical stock price data of Tesla (TSLA) obtained from a CSV file. 
 
 ## Dependencies
 - pandas
